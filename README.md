@@ -38,7 +38,7 @@ Open index.html in your browser to begin your AI chat.
 
 # Demo
 You can access the live demo of the project at[My Website](http://127.0.0.1:3000/index.html)
-file:///C:/Users/user/OneDrive/Desktop/AI%20Assistant/index.html
+
 
 ### Screenshot:
 ![Personal-AI-Assistant](https://github.com/Paromita-maji/Personal-AI-Assistant/blob/db7c315b3177ba916a2ec641864617b1e9ea9626/Personal%20AI%20Assistant.png)
