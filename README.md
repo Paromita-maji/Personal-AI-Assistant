@@ -40,6 +40,6 @@ Open index.html in your browser to begin your AI chat.
 You can access the live demo of the project at  [My Website](file:///C:/Users/user/OneDrive/Desktop/AI%20Assistant/index.html).
 
 ### Screenshot:
-![Digital Service Website](https://github.com/Paromita-maji/Personal-AI-Assistant/blob/db7c315b3177ba916a2ec641864617b1e9ea9626/Personal%20AI%20Assistant.png)
-![Digital Service Website](https://github.com/Paromita-maji/Digital-Website/blob/main/ss/Screenshot%202024-06-01%20105051.png)
-https://github.com/Paromita-maji/Personal-AI-Assistant/blob/db7c315b3177ba916a2ec641864617b1e9ea9626/Personal%20AI%20Assistant.png
+![Personal-AI-Assistant](https://github.com/Paromita-maji/Personal-AI-Assistant/blob/db7c315b3177ba916a2ec641864617b1e9ea9626/Personal%20AI%20Assistant.png)
+![Personal-AI-Assistant](https://github.com/Paromita-maji/Personal-AI-Assistant/blob/85757766030cb87331ad3e2fab91d07b9b86f0f4/Personal%20AI%20Assistant..png)
+
